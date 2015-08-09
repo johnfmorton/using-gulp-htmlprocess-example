@@ -1,0 +1,17 @@
+{
+  "name": "gulp-htmlprocessing-example",
+  "version": "0.0.1",
+  "description": "Sample project for Gulp HTML Processing",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Morton",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^1.2.0",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-processhtml": "^1.1.0"
+  }
+}
